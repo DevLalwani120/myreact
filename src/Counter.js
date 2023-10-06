@@ -10,7 +10,7 @@ export default function Counter() {
      }
   return (
     <>
-    <div>{num}</div>
+    <div>My Number : {num}</div>
     <button onClick={clickAdd}>click Add</button>
     <button onClick={clicksub}>click Sub</button>
     </>
